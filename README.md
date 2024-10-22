@@ -58,7 +58,7 @@ def save_table_to_csv(results_structure, image_name, output_dir=csv_out_dir):
 
 Examples of CSV results:
 
-![CSV](images/csv1.png)
+![CSV](csv.png)
 
 
 
